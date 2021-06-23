@@ -1,7 +1,7 @@
 ---
 name: WANTED!!
 about: 같이 공부하실 분을 찾습니다!
-title: ''
+title: (Android.Deep.Dive).join("with", "us")
 labels: ''
 assignees: ''
 
